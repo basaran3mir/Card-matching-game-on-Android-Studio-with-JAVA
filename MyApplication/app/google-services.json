@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637120821759",
+    "project_id": "project-3-87acf",
+    "storage_bucket": "project-3-87acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637120821759:android:503839ad308d2b9bd6cfca",
+        "android_client_info": {
+          "package_name": "com.emiremre.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637120821759-3ih5vgbgdt39nfjlboh869tvvnvqsbrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYN5u3HoYoG2AlKxvXxF1OWRur1_sUrLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637120821759-3ih5vgbgdt39nfjlboh869tvvnvqsbrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
